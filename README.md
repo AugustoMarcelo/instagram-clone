@@ -7,5 +7,8 @@
 
 # Funcionalidades
 
- - Paginação + carregamento sob demanda
+ - Paginação
+ - _Scroll infinito_
  - _Pull to Refresh_
+ - _Blur_ antes do carregamento da imagem final
+ - _Lazy Load_ (Carregamento sob demanda)
